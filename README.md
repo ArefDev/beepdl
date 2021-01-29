@@ -3,7 +3,6 @@
 **BeepDl** is a free cross-platform desktop application (GNU/Linux, MacOS, Windows) to search and download free single tracks from beeptunes.com.
 In this application I used the public API of the beeptunes site in order to search for the artists and download their free single tracks.
 
-![beepdl.gif](https://github.com/ArefDev/BeepDl/blob/main/res/shots/beepdl.gif?raw=true)
 
 # How to Use
 Just clone the repository on your local system, install the dependencies and run it:
